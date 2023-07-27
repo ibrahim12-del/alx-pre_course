@@ -1,0 +1,12 @@
+[master 9d9307d] -
+ 12 files changed, 8 insertions(+), 4 deletions(-)
+ create mode 100644 -
+ create mode 100644 .swo
+ create mode 100644 .swp
+ create mode 100644 0x01-git/#gitignore#
+ create mode 120000 0x01-git/.#gitignore
+ create mode 100644 0x01-git/.swo
+ create mode 100644 0x01-git/.swp
+ create mode 100644 0x01-git/gitignore
+ create mode 100644 0x01-git/main
+ create mode 100644 gitignore
